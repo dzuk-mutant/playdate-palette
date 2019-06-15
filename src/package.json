@@ -1,0 +1,17 @@
+{
+  "name": "playdate-palette",
+  "displayName": "Playdate Palettes",
+  "description": "Unofficial palettes for the Panic Playdate.",
+  "version": "1.0",
+  "author": { "name": "Dzuk", "url": "https://noct.zone" },
+  "publisher": "Dzuk",
+  "categories": [
+    "Palettes"
+  ],
+  "contributes": {
+    "palettes": [
+      { "id": "Playdate",   "path": "./playdate-natural.gpl" },
+      { "id": "Playdate B+W",   "path": "./playdate-bw.gpl" }
+    ]
+  }
+}
